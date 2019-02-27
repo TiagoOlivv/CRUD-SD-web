@@ -1,7 +1,7 @@
 # CRUD-SD-web
 
 
-##Sistema de Cadastro dos Trabalhos da Disciplina de Sistemas Distribuidos (SCTDSD)
+#Sistema de Cadastro dos Trabalhos da Disciplina de Sistemas Distribuidos (SCTDSD)
 
 •	Ideia Geral: Sistema de Cadastro dos Trabahos da Disciplina de SD com uma interface web que usa o Firebase para armazenamento de dados e autenticação de usuário.
 
