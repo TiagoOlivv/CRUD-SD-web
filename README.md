@@ -9,4 +9,4 @@
 
 •	Operação: Operações CRUD e mostrar as alterações no Firebase.
 
-•	Linguagem: HTML e jQuery.
+•	Linguagem: HTML e JS.
