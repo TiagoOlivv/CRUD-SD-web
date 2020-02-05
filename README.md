@@ -1,4 +1,4 @@
-# CRUD-in-WEB-using-Firebase
+# CRUD-using-Firebase
 
 
 ## Sistema de Cadastro dos Trabalhos da Disciplina de Sistemas Distribuidos
